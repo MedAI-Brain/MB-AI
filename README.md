@@ -23,9 +23,9 @@ For inference based on trained model
   	|__  nnUNet_raw_data
   	|  |__  Task504_NativeTumor
   	|    |__  imagesTr
-  	|		 |__  imagesTs(optional)
+  	|    |__  imagesTs(optional)
   	|    |__  labelsTr
-  	|	   |__  dataset.json
+  	|    |__  dataset.json
   	|__  nnUNet_preprocessed
   	|__  RESULTS_FOLDER
   ```
