@@ -21,11 +21,11 @@ For inference based on trained model
   ```shell
   nnUNetData
   	|__  nnUNet_raw_data
-  	|			|__  Task504_NativeTumor
-  	|						|__  imagesTr
-  	|						|__  imagesTs(optional)
-  	|           |__  labelsTr
-  	|						|__  dataset.json
+  	|  |__  Task504_NativeTumor
+  	|    |__  imagesTr
+  	|		 |__  imagesTs(optional)
+  	|    |__  labelsTr
+  	|	   |__  dataset.json
   	|__  nnUNet_preprocessed
   	|__  RESULTS_FOLDER
   ```
